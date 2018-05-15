@@ -4,7 +4,7 @@
 
 <b>Execute no terminal os seguintes comandos:</b>
 
-```
+```js
 yarn global add commitizen rimraf conventional-recommended-bump conventional-changelog-cli conventional-github-releaser conventional-commits-detector json
 
 commitizen init cz-conventional-changelog --save-dev --save-exact
@@ -14,7 +14,7 @@ yarn add --dev husky conventional-changelog validate-commit-msg
 
 <b>ou</b>
 
-```
+```js
 npm global add commitizen rimraf conventional-recommended-bump conventional-changelog-cli conventional-github-releaser conventional-commits-detector json
 
 commitizen init cz-conventional-changelog --save-dev --save-exact
